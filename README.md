@@ -64,7 +64,7 @@ Loan approvals are critical decisions for financial institutions, requiring accu
 - Designed a **scalable model** that can be extended for larger datasets.  
 
 ---
-Future Improvements
+## **Future Improvements** 
 Advanced Models: Incorporate advanced Machine Learning Models and Neural Networks to improve accuracy.
 Web Interface: Develop a Flask-based web app for real-time predictions.
 Feature Expansion: Include more applicant details to refine predictions further.
